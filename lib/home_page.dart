@@ -9,10 +9,10 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Mro App 1'),
+        title: Text('Mcro App 1'),
       ),
       body: Center(
-        child: Text('Hallo word'),
+        child: Text('Hallo word 123'),
       ),
     );
   }
