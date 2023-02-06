@@ -11,8 +11,8 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text('Mcro App 1'),
       ),
-      body: Center(
-        child: Text('Hallo word 123'),
+      body: Column(
+        children: [Text('Hallo word 1q'), Text('Heloword 2')],
       ),
     );
   }
